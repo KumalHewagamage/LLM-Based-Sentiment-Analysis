@@ -1,0 +1,8 @@
+/SentimentAnalysis
+    ├── data_processing.py
+    ├── Emoticon
+    ├── model_utils.py
+    ├── main.py
+    ├── requirements.txt
+    ├── data/
+        └── Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products.csv
